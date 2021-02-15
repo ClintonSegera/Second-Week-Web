@@ -1,0 +1,21 @@
+.email {
+    width: 200px;
+    height: 30px;
+    border: 1px solid #b25b25;
+    border-radius: 20px;
+}
+
+.password {
+    width: 200px;
+    height: 30px;
+    border: 1px solid #b25b25;
+    border-radius: 20px;
+}
+
+.submitbtn {
+    width: 200px;
+    height: 30px;
+    border: 1px solid #b25b25;
+    border-radius: 50px;
+    background-color: #b25b25;
+}
