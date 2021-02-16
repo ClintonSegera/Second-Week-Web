@@ -1,21 +1,29 @@
+.content {
+  margin: 50px;
+  width: 50%;
+  justify-content: center;
+  padding: 20px;
+  border: 1px #000;
+  border-style: dashed;
+}
 .email {
-    width: 200px;
-    height: 30px;
-    border: 1px solid #b25b25;
-    border-radius: 20px;
+  width: 200px;
+  height: 40px;
+  border: 1px solid #000;
+  border-radius: 20px;
 }
 
 .password {
-    width: 200px;
-    height: 30px;
-    border: 1px solid #b25b25;
-    border-radius: 20px;
+  width: 200px;
+  height: 40px;
+  border: 1px solid #000;
+  border-radius: 20px;
 }
 
-.submitbtn {
-    width: 200px;
-    height: 30px;
-    border: 1px solid #b25b25;
-    border-radius: 50px;
-    background-color: #b25b25;
+.submitBtn {
+  border: 1px solid rgb(228, 66, 66);
+  background-color: rgb(228, 66, 66);
+  height: 50px;
+  width: 200px;
+  border-radius: 50px;
 }
